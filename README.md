@@ -1,6 +1,5 @@
-## Hi there 👋
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/conc-gif-23076898" width="100"/>
+  <img src="[https://tenor.com/ru/view/conc-gif-23076898](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3I2YTA5Z3VpbTZzOXY3MDNqMXBrNG1lbDV6NndhbGtnc2liNWV0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3E6KC64glestQ7Sw/giphy.gif)" width="100"/>
 </div>
 <!--
 **KostusLi/KostusLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
