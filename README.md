@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/KostusLi/temp/blob/main/43bfb03be49e58a4770c01efbfc8e4ed.gif" width="400"/>
+  <img src="https://github.com/KostusLi/temp/blob/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_i3ce440dsa1yc407ns0j.gif" width="400"/>
 </div>
 <!--
 **KostusLi/KostusLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
