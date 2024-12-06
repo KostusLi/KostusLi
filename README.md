@@ -2,6 +2,11 @@
 <div id="header" align="center">
   <img src="https://github.com/KostusLi/temp/blob/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_i3ce440dsa1yc407ns0j.gif" width="400"/>
 </div>
+<div id="link" align="center">
+  <h1>HELLO EVERYBODY!
+  <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif" width="90px">
+  </h1>
+</div>
 <div align="center">
   MY SOCIAL NETWORKS
 </div>
@@ -12,10 +17,6 @@
 </div>
 <div id="link" align="center">
   <img src="https://komarev.com/ghpvc/?username=KostusLi">
-</div>
-<div id="link" align="center" font="90px">
-  HELLO EVERYBODY!
-  <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif" width="60px">
 </div>
 
 <!--
