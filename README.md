@@ -14,7 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=KostusLi">
 </div>
 <div id="link" align="center">
-  <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif">
+  ## HELLO EVERYBODY!
+  <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif" width="30px">
 </div>
 
 <!--
