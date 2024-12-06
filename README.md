@@ -11,10 +11,12 @@
   </a>
 </div>
 <div id="link" align="center">
-  <a href="https://t.me/KostusLi">
   <img src="https://komarev.com/ghpvc/?username=KostusLi">
-  </a>
 </div>
+<div id="link" align="center">
+  <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif">
+</div>
+
 <!--
 **KostusLi/KostusLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
