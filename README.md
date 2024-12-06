@@ -3,7 +3,7 @@
   <img src="https://github.com/KostusLi/temp/blob/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_i3ce440dsa1yc407ns0j.gif" width="400"/>
 </div>
 <div>
-  <a href="t.me/KostusLi">
+  <a href="https://t.me/KostusLi">
   <img src="https://github.com/KostusLi/temp/blob/main/Telegram.png">
   </a>
 </div>
