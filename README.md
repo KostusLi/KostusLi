@@ -1,4 +1,4 @@
-<h1 color="yellow" font-size="bold"> ANIWAY, BRO... AND I NEED A COFFEE </h1>
+<h1 color="yellow" font-size="bold" align="center"> ANIWAY, BRO... AND I NEED A COFFEE </h1>
 <div id="header" align="center">
   <img src="https://github.com/KostusLi/temp/blob/main/https___dev-to-uploads.s3.amazonaws.com_uploads_articles_i3ce440dsa1yc407ns0j.gif" width="400"/>
 </div>
