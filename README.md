@@ -18,7 +18,7 @@
 <div id="link" align="center">
   <img src="https://komarev.com/ghpvc/?username=KostusLi">
 </div>
-:man_technologist: About Me :
+<h3>:man_technologist: About Me :</h3>
 <p>I'm a developer, I don't know what <img src="https://media.tenor.com/VACzE21_DrMAAAAi/%D1%83%D0%B3%D0%B0%D1%80.gif" width="60px"></p>
 <!--
 **KostusLi/KostusLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
