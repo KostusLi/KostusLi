@@ -13,7 +13,7 @@
 <div id="link" align="center">
   <img src="https://komarev.com/ghpvc/?username=KostusLi">
 </div>
-<div id="link" align="center" font-size="90px">
+<div id="link" align="center" font="90px">
   HELLO EVERYBODY!
   <img src="https://media.tenor.com/i8vhkDUi1wsAAAAi/wave-joe.gif" width="60px">
 </div>
